@@ -1,0 +1,33 @@
+{
+    "products" : [
+        {
+        "ID" : 1, 
+        "Name" : "Iphone 6",
+        "Price" : 500,
+        "status" : true
+        }
+    ],
+
+    "Travelers" : [
+        {
+        "TM_EVENT_GUID" : "bd02eb75-6add-4071-a516-a33adfcea762", 
+        "FIRST_NAME" : "Jason",
+        "LAST_NAME" : "Hutchinson",
+        "POSITION_TITLE" : "Political Officer",
+        "ASSIGNMENT_NUMBER" : 254375,
+        "ORG_NAME" : "BRUSSELSNATO",
+        "ASSIGNMENT_DATE" : "01/01/2016",
+        "EFFECTIVE_DATE" : "12/30/2015"
+        },
+        {
+            "TM_EVENT_GUID" : "bd02eb75-6add-4071-a516-a33adfcea762", 
+            "FIRST_NAME" : "Brandon",
+            "LAST_NAME" : "Cerone",
+            "POSITION_TITLE" : "Information Management Spec",
+            "ASSIGNMENT_NUMBER" : "253538",
+            "ORG_NAME" : "PHNOM PENH",
+            "ASSIGNMENT_DATE" : "12/31/2015",
+            "EFFECTIVE_DATE" : "12/29/2015"
+            }
+    ]
+}
